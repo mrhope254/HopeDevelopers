@@ -186,3 +186,8 @@ nav li:first-child{
     right: 10%;
     top :10%;
 } */
+
+h3{
+    text-align: center;
+    font-size: inherit;
+}
