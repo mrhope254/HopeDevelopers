@@ -179,14 +179,14 @@ nav li:first-child{
 
 
 /*Featured Image*/
-/* 
+
 .featured{
     width: 530px;
     position: absolute;
     bottom: 0;
     right: 10%;
     top :10%;
-} */
+} 
 
 h3{
     text-align: center;
