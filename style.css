@@ -194,6 +194,11 @@ h3{
     font-size: 30px;
 }
 
+
+.content p{
+    mix-blend-mode: difference;
+}
+
 .p-about{
     text-align: center;
     text-indent: 20px;
