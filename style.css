@@ -4,7 +4,8 @@
 }
 
 body{
-   background-image: url(back-tech.jpg);
+   /* background-image: url(back-tech.jpg); */
+   background-color:#f0f0f0 ;
    min-height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -200,7 +201,6 @@ h3{
 }
 
 .p-about{
-    margin: 10px 0 30px;
     color: #2c2c35;
     margin: 10%;
 }
