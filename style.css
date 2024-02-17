@@ -94,7 +94,7 @@ nav li:first-child{
 
 .content{
    margin: 10%;
-    max-width: 600px;
+   max-width: 600px;
 }
 
 .hero{
@@ -197,6 +197,7 @@ h3{
 
 .content p{
     color: #424242;
+  margin: 10%;
 }
 
 .p-about{
