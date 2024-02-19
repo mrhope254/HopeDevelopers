@@ -207,6 +207,7 @@ h3{
 }
 
 .learnmore{
+    margin: 5px 10% 30px;
     color: linear-gradient(45deg, #df4881, #c430d7 );
     font-size: 14px;
 }
